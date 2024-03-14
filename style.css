@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(to right, #39383D 0%, 37.30570077896118%, #63303F 74.61140155792236%, 87.30570077896118%, #424347 100%);;
+}
+body h1{
+    color: #fff;
+}
+body h2{
+    color: #fff;
+}
+body p{
+    color: #fff;
+}
+.imagem img{
+    margin-top: 4%;
+}
